@@ -1,0 +1,464 @@
+Searching 15 files for "green"
+
+C:\Users\domin\Desktop\limelight\limelight-html\css\style.css:
+  424  }
+  425  
+  426: .blue {
+  427       color: #16e816 !important;
+  428  }
+
+C:\Users\domin\Desktop\limelight\limelight-html\index.html:
+  128                 <div class="col-md-5">
+  129                    <div class="titlepage">
+  130:                      <h2>About <span class="blue">Us</span></h2>
+  131                       <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humourThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
+  132                       <a class="read_more" href="Javascript:void(0)"> Read More</a>
+  ...
+  148                 <div class="col-md-12">
+  149                    <div class="titlepage">
+  150:                      <h2>Our <span class="blue">Services</span></h2>
+  151                    </div>
+  152                 </div>
+  ...
+  198                 <div class="col-md-12">
+  199                    <div class="titlepage">
+  200:                      <h2>Our <span class="blue">gallery</span></h2>
+  201                       <p>here are many variations of passages of Lorem Ipsum available, but the majority have suffer</p>
+  202                    </div>
+  ...
+  293                                         <div class="text_de">
+  294                                            <div class="titlepage">
+  295:                                              <h2>New Ideas <span class="blue">Design</span></h2>
+  296                                            </div>
+  297                                            <p>There are many variations of passages of Lorem Ipsum available, but theThere are many variations of passages of Lorem Ipsum available, but the</p>
+  ...
+  309                                         <div class="text_de">
+  310                                            <div class="titlepage">
+  311:                                              <h2>New Ideas <span class="blue">Design</span></h2>
+  312                                            </div>
+  313                                            <p>There are many variations of passages of Lorem Ipsum available, but theThere are many variations of passages of Lorem Ipsum available, but the</p>
+  ...
+  325                                         <div class="text_de">
+  326                                            <div class="titlepage">
+  327:                                              <h2>New Ideas <span class="blue">Design</span></h2>
+  328                                            </div>
+  329                                            <p>There are many variations of passages of Lorem Ipsum available, but theThere are many variations of passages of Lorem Ipsum available, but the</p>
+  ...
+  360                 <div class="col-md-12">
+  361                    <div class="titlepage">
+  362:                      <h2>Read Our <span class="green">Latest News</span></h2>
+  363                    </div>
+  364                 </div>
+
+C:\Users\domin\Desktop\templatemo_559_zay_shop\Deportiva.html:
+  211                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  212                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  213:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  214                                      </li>
+  215                                  </ul>
+  ...
+  248                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  249                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  250:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  251                                      </li>
+  252                                  </ul>
+  ...
+  285                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  286                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  287:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  288                                      </li>
+  289                                  </ul>
+  ...
+  322                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  323                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  324:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  325                                      </li>
+  326                                  </ul>
+  ...
+  359                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  360                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  361:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  362                                      </li>
+  363                                  </ul>
+  ...
+  396                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  397                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  398:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  399                                      </li>
+  400                                  </ul>
+  ...
+  433                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  434                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  435:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  436                                      </li>
+  437                                  </ul>
+  ...
+  470                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  471                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  472:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  473                                      </li>
+  474                                  </ul>
+
+C:\Users\domin\Desktop\templatemo_559_zay_shop\Gimnasio.html:
+  211                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  212                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  213:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  214                                      </li>
+  215                                  </ul>
+  ...
+  248                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  249                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  250:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  251                                      </li>
+  252                                  </ul>
+  ...
+  285                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  286                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  287:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  288                                      </li>
+  289                                  </ul>
+  ...
+  322                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  323                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  324:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  325                                      </li>
+  326                                  </ul>
+
+C:\Users\domin\Desktop\templatemo_559_zay_shop\Hogar.html:
+  211                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  212                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  213:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  214                                      </li>
+  215                                  </ul>
+  ...
+  248                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  249                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  250:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  251                                      </li>
+  252                                  </ul>
+  ...
+  285                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  286                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  287:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  288                                      </li>
+  289                                  </ul>
+  ...
+  322                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  323                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  324:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  325                                      </li>
+  326                                  </ul>
+  ...
+  359                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  360                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  361:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  362                                      </li>
+  363                                  </ul>
+  ...
+  396                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  397                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  398:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  399                                      </li>
+  400                                  </ul>
+
+C:\Users\domin\Desktop\templatemo_559_zay_shop\Hombres.html:
+  211                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  212                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  213:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  214                                      </li>
+  215                                  </ul>
+  ...
+  248                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  249                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  250:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  251                                      </li>
+  252                                  </ul>
+  ...
+  285                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  286                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  287:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  288                                      </li>
+  289                                  </ul>
+  ...
+  322                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  323                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  324:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  325                                      </li>
+  326                                  </ul>
+  ...
+  359                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  360                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  361:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  362                                      </li>
+  363                                  </ul>
+  ...
+  396                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  397                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  398:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  399                                      </li>
+  400                                  </ul>
+
+C:\Users\domin\Desktop\templatemo_559_zay_shop\Luxury.html:
+  211                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  212                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  213:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  214                                      </li>
+  215                                  </ul>
+  ...
+  248                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  249                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  250:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  251                                      </li>
+  252                                  </ul>
+  ...
+  285                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  286                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  287:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  288                                      </li>
+  289                                  </ul>
+  ...
+  322                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  323                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  324:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  325                                      </li>
+  326                                  </ul>
+
+C:\Users\domin\Desktop\templatemo_559_zay_shop\Mujeres.html:
+  211                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  212                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  213:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  214                                      </li>
+  215                                  </ul>
+  ...
+  248                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  249                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  250:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  251                                      </li>
+  252                                  </ul>
+  ...
+  285                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  286                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  287:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  288                                      </li>
+  289                                  </ul>
+  ...
+  322                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  323                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  324:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  325                                      </li>
+  326                                  </ul>
+  ...
+  359                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  360                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  361:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  362                                      </li>
+  363                                  </ul>
+  ...
+  396                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  397                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  398:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  399                                      </li>
+  400                                  </ul>
+  ...
+  433                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  434                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  435:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  436                                      </li>
+  437                                  </ul>
+  ...
+  470                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  471                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  472:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  473                                      </li>
+  474                                  </ul>
+  ...
+  507                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  508                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  509:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  510                                      </li>
+  511                                  </ul>
+
+C:\Users\domin\Desktop\templatemo_559_zay_shop\shop-single.html:
+  296                                      <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  297                                      <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  298:                                     <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  299                                  </li>
+  300                              </ul>
+  ...
+  334                                      <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  335                                      <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  336:                                     <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  337                                  </li>
+  338                              </ul>
+  ...
+  372                                      <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  373                                      <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  374:                                     <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  375                                  </li>
+  376                              </ul>
+  ...
+  410                                      <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  411                                      <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  412:                                     <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  413                                  </li>
+  414                              </ul>
+  ...
+  448                                      <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  449                                      <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  450:                                     <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  451                                  </li>
+  452                              </ul>
+  ...
+  486                                      <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  487                                      <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  488:                                     <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  489                                  </li>
+  490                              </ul>
+  ...
+  524                                      <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  525                                      <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  526:                                     <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  527                                  </li>
+  528                              </ul>
+  ...
+  562                                      <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  563                                      <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  564:                                     <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  565                                  </li>
+  566                              </ul>
+  ...
+  600                                      <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  601                                      <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  602:                                     <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  603                                  </li>
+  604                              </ul>
+  ...
+  638                                      <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  639                                      <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  640:                                     <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  641                                  </li>
+  642                              </ul>
+  ...
+  676                                      <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  677                                      <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  678:                                     <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  679                                  </li>
+  680                              </ul>
+  ...
+  714                                      <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  715                                      <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  716:                                     <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  717                                  </li>
+  718                              </ul>
+
+C:\Users\domin\Desktop\templatemo_559_zay_shop\shop.html:
+  211                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  212                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  213:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  214                                      </li>
+  215                                  </ul>
+  ...
+  248                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  249                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  250:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  251                                      </li>
+  252                                  </ul>
+  ...
+  285                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  286                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  287:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  288                                      </li>
+  289                                  </ul>
+  ...
+  322                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  323                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  324:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  325                                      </li>
+  326                                  </ul>
+  ...
+  359                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  360                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  361:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  362                                      </li>
+  363                                  </ul>
+  ...
+  396                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  397                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  398:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  399                                      </li>
+  400                                  </ul>
+  ...
+  433                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  434                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  435:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  436                                      </li>
+  437                                  </ul>
+  ...
+  470                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  471                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  472:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  473                                      </li>
+  474                                  </ul>
+  ...
+  507                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  508                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  509:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  510                                      </li>
+  511                                  </ul>
+
+C:\Users\domin\Desktop\templatemo_559_zay_shop\shop1.html:
+  211                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  212                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  213:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  214                                      </li>
+  215                                  </ul>
+  ...
+  248                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  249                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  250:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  251                                      </li>
+  252                                  </ul>
+  ...
+  285                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  286                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  287:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  288                                      </li>
+  289                                  </ul>
+  ...
+  322                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  323                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  324:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  325                                      </li>
+  326                                  </ul>
+  ...
+  359                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  360                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  361:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  362                                      </li>
+  363                                  </ul>
+  ...
+  396                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  397                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  398:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  399                                      </li>
+  400                                  </ul>
+  ...
+  433                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  434                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  435:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  436                                      </li>
+  437                                  </ul>
+  ...
+  470                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  471                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  472:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  473                                      </li>
+  474                                  </ul>
+  ...
+  507                                          <span class="product-color-dot color-dot-black float-left rounded-circle ml-1"></span>
+  508                                          <span class="product-color-dot color-dot-light float-left rounded-circle ml-1"></span>
+  509:                                         <span class="product-color-dot color-dot-green float-left rounded-circle ml-1"></span>
+  510                                      </li>
+  511                                  </ul>
+
+75 matches across 11 files
